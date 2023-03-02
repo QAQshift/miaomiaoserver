@@ -1,0 +1,3 @@
+qq邮箱配置
+成功开启IMAP/SMTP服务,在第三方客户端登录时，密码框请输入以下授权码
+etmyyakqhrlhccab
